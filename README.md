@@ -13,8 +13,8 @@ A Laravel application for managing products with Breeze authentication and dynam
 1. **Clone Repository**
 
     ```bash
-    git clone https://github.com/your-username/product-management-app.git
-    cd product-management-app
+    git clone https://github.com/alamin-babu/Product-Managment.git
+    cd Product-Managment
     ```
 
 2. **Install Dependencies**
